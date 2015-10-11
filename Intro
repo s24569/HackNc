@@ -1,0 +1,16 @@
+<html>
+<head>
+	<script src= "jQuery source.11.3.js"></script>
+	<script type= "text/javascript" src= "JavaScriptGame.js"></script>
+</head>
+<center><h1 id="caveExperiment">Stroop Blocks</h1></center>
+<center><h1 id="aLie">Every color you know is a lie</h1></center>
+<center><h1 id="ok">But it's ok</h1></center>
+<center><h1 id="truth">We'll teach you the truth</h1></center>
+<center><button id= "continue">Begin Re-education</button></center>
+<center><h1 id= "trust">Trust the words</h1></center>
+<center><h1 id= "not">Not the colors</h1></center><br>
+<center><a href= "JavaScriptGame.html"><button id= "play">Continue</button></a></center>
+
+
+</html>
