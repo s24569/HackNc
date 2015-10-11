@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<title>Conclusion</title>
+<head>
+	<script src= "jQuery source.11.3.js"></script>
+	<script src= "JavaScriptGame.js"></script>
+</head>
+
+<style>
+h1{
+	font-size: 75px;
+}
+
+
+</style>
+
+<body>
+	<center><h1><div id= "congrats">Congratulations</div><br> <div id= "complete">your re-education is complete</div></h1></center>
+	
+</body>
+
+
+</html>
