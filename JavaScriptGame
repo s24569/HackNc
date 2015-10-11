@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src= "jQuery source.11.3.js"></script>
+    <script src= "JavaScriptGame.js"></script>
+
+    <style>
+    html{
+
+
+    }
+    h1{
+        color: red;
+
+    }
+    #red{
+        color: green;
+    }
+
+    #blueSquare{
+        background-color: blue;
+        height: 250px;
+        width: 100%;
+        font-size: 50px;
+
+
+    }
+    #realPurple{
+        color: purple;
+
+    }
+    #blackSquare{
+        background-color: black;
+        height: 250px;
+        width: 100%;
+        font-size: 50px;
+
+    }
+    #realRed{
+        color: red;
+    }
+    #greenSquare{
+        background-color: green;
+        height: 250px;
+        width: 100%;
+        font-size: 50px;
+
+    }
+
+    #realYellow{
+        color: yellow;
+    }
+    #redSquare{
+        background-color: red;
+        height: 250px;
+        width: 100%;
+        font-size: 50px;
+    }
+
+    #realBlue{
+        color: blue;
+    }
+
+    #yellowSquare{
+        background-color: yellow;
+        height: 250px;
+        width: 100%;
+        font-size: 50px;
+    }
+
+    #realGray{
+        color: gray;
+
+    }
+
+    #brownSquare{
+        background-color: brown;
+        height: 250px;
+        width: 100%;
+        font-size: 50px;
+    }
+
+    #realWhite{
+        color: white;
+
+    }
+	
+	button{
+		height: 50px;
+		width: 75px;
+	}
+	a{
+		decoration: none;
+	}
+
+    </style>
+
+</head>
+
+<body>
+	
+
+<div id= "blueSquare"><center><div id= "realPurple">White</div></center></div><br>
+<div id= "blackSquare"><center><div id= "realRed">Green</div></center></div><br>
+<div id= "greenSquare"><center><div id= "realYellow">Red</div></center></div><br>
+<div id= "redSquare"><center><div id= "realBlue">Yellow</div></center></div><br>
+<div id= "yellowSquare"><center><div id= "realGray">Blue</div></center></div><br>
+<div id= "brownSquare"><center><div id= "realWhite">Orange</div></center></div><br>
+<center><div id= "beginTest"><a href= "Re-EducationA.html"><button>Begin Test</button></a></div></center>
+
+</body>
+</html>
